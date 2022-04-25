@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.3.1 p4blojf 
+  new chartjs
+  
 ## 1.1.3 Pending Release
 
 * Enh [#232](https://github.com/bedezign/yii2-audit/issues/232): Added `exportAtIntervals` log-target configuration to allow export during the request.
