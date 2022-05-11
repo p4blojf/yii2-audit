@@ -31,11 +31,11 @@
     "ext-bcmath": "*",
     "yiisoft/yii2": ">=2.0.0 <2.1.0",
     "yiisoft/yii2-debug": ">=2.1.0 <2.2.0",
-    "2amigos/yii2-chartjs-widget": "dev-master",
     "phpspec/php-diff": "1.*"
   },
   "suggest": {
     "php-mime-mail-parser/php-mime-mail-parser": "Allows better displaying of logged emails."
+    "2amigos/yii2-chartjs-widget": "dev-master"
   },
   "autoload": {
     "psr-4": {
