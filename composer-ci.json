@@ -38,7 +38,7 @@
     "ext-soap": "*",
     "yiisoft/yii2": "^2.0.13",
     "yiisoft/yii2-debug": "2.*",
-    "2amigos/yii2-chartjs-widget": "^2.0.1",
+    "2amigos/yii2-chartjs-widget": "dev-master",
     "phpspec/php-diff": "1.*"
   },
   "require-dev": {
