@@ -34,7 +34,7 @@
     "phpspec/php-diff": "1.*"
   },
   "suggest": {
-    "php-mime-mail-parser/php-mime-mail-parser": "Allows better displaying of logged emails."
+    "php-mime-mail-parser/php-mime-mail-parser": "Allows better displaying of logged emails.",
     "2amigos/yii2-chartjs-widget": "dev-master"
   },
   "autoload": {
